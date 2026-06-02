@@ -1,0 +1,8 @@
+=== REPORTE DE INVENTARIO ===
+
+Codigo    Nombre                             Stock     Precio      Ventas    
+------------------------------------------------------------
+10        sal                                25        1.00        25        
+12        leche                              5         25.00       55        
+13        botella de agua                    15        15.00       285       
+14        Bolsa de detergente                500       39.00       0         
